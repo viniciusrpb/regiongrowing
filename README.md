@@ -18,8 +18,6 @@ Provided by the biologists. Some samples are available on data/ folder.
 
 ### How to run
 
-HOW TO RUN:
-
 1) Include all the original images in the folder 'images/'
 
 2) Open Matlab and type:
