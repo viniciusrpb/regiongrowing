@@ -2,11 +2,11 @@
 
 ### Authors
 
-Vinícius Ruela Pereira Borges (ICMC/USP São Carlos)
-Maria Cristina Ferreira Oliveira (ICMC/USP São Carlos)
-Thaís Garcia Silva (UFScar)
-Armando Augusto Henriques Vieira (UFSCar)
-Bernd Hamann (UC Davis)
+- Vinícius Ruela Pereira Borges (ICMC/USP São Carlos)
+- Maria Cristina Ferreira Oliveira (ICMC/USP São Carlos)
+- Thaís Garcia Silva (UFScar)
+- Armando Augusto Henriques Vieira (UFSCar)
+- Bernd Hamann (UC Davis)
 
 ### Journal
 
