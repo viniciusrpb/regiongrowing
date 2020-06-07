@@ -10,7 +10,7 @@
 
 ### Journal
 
-IEEE/ACM Transactions on Computational Biology and Bioinformatics
+IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol. 15, ed. 1, pp. 257-270.
 
 ### Dataset
 
